@@ -1,0 +1,358 @@
+
+[
+    {
+      "product_id": "LAPTOP001",
+      "product_title": "UltraBook Pro 15",
+      "product_image": "https://i.ibb.co/SK1MCY6/front-scaled.jpg",
+      "category": "Laptops",
+      "price": 1499.99,
+      "description": "A powerful ultrabook with a sleek design and high performance.",
+      "Specification": [
+        "15.6-inch 4K display",
+        "Intel i7 processor",
+        "16GB RAM",
+        "512GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "LAPTOP002",
+      "product_title": "Gaming Laptop Xtreme",
+      "product_image": "https://i.ibb.co/pbFjg43/OIP.jpg",
+      "category": "Gaming",
+      "price": 1999.99,
+      "description": "High-performance gaming laptop with advanced graphics.",
+      "Specification": [
+        "17.3-inch Full HD display",
+        "Intel i9 processor",
+        "32GB RAM",
+        "1TB SSD + 1TB HDD",
+        "NVIDIA RTX 3080"
+      ],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "LAPTOP003",
+      "product_title": "Business Laptop Elite",
+      "product_image": "https://i.ibb.co/fSDH9Yh/download.jpg",
+      "category": "Business",
+      "price": 1099.99,
+      "description": "A reliable laptop designed for business professionals.",
+      "Specification": [
+        "14-inch Full HD display",
+        "Intel i5 processor",
+        "8GB RAM",
+        "256GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "LAPTOP004",
+      "product_title": "2-in-1 Convertible Laptop",
+      "product_image": "https://i.ibb.co/DKHp8Mr/download-1.jpg",
+      "category": "2-in-1",
+      "price": 799.99,
+      "description": "Versatile 2-in-1 laptop that can be used as a tablet.",
+      "Specification": [
+        "13.3-inch touchscreen display",
+        "Intel i5 processor",
+        "8GB RAM",
+        "512GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "LAPTOP005",
+      "product_title": "Chromebook Lite",
+      "product_image": "https://i.ibb.co/tswLXkm/download-2.jpg",
+      "category": "Chromebooks",
+      "price": 349.99,
+      "description": "Affordable Chromebook for everyday tasks and browsing.",
+      "Specification": [
+        "14-inch HD display",
+        "Intel Celeron processor",
+        "4GB RAM",
+        "32GB eMMC"
+      ],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": "LAPTOP006",
+      "product_title": "MacBook Air 2023",
+      "product_image": "https://i.ibb.co/k64fGkd/OIP-5.jpg",
+      "category": "Apple Laptops",
+      "price": 999.99,
+      "description": "The latest MacBook Air with M1 chip and stunning Retina display.",
+      "Specification": [
+        "13.3-inch Retina display",
+        "Apple M1 chip",
+        "8GB RAM",
+        "256GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "LAPTOP007",
+      "product_title": "Gaming Laptop Fury",
+      "product_image": "https://i.ibb.co/fHGWrCZ/OIP-4.jpg",
+      "category": "Gaming",
+      "price": 1599.99,
+      "description": "A gaming laptop that delivers exceptional performance and graphics.",
+      "Specification": [
+        "15.6-inch Full HD display",
+        "AMD Ryzen 7 processor",
+        "16GB RAM",
+        "512GB SSD",
+        "NVIDIA GTX 1660 Ti"
+      ],
+      "availability": false,
+      "rating": 4.4
+    },
+    {
+      "product_id": "LAPTOP008",
+      "product_title": "HP Pavilion 14",
+      "product_image": "https://i.ibb.co/7kg0jNL/OIP-2.jpg",
+      "category": "Laptops",
+      "price": 649.99,
+      "description": "Stylish laptop for students and everyday use.",
+      "Specification": [
+        "14-inch Full HD display",
+        "Intel i3 processor",
+        "8GB RAM",
+        "256GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": "LAPTOP009",
+      "product_title": "Lenovo ThinkPad X1",
+      "product_image": "https://i.ibb.co/G9ZqtLB/OIP-1.jpg",
+      "category": "Business",
+      "price": 1299.99,
+      "description": "A premium business laptop with advanced security features.",
+      "Specification": [
+        "14-inch Full HD display",
+        "Intel i7 processor",
+        "16GB RAM",
+        "512GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "LAPTOP010",
+      "product_title": "Asus ZenBook 14",
+      "product_image": "https://i.ibb.co/p3mK9RL/OIP-3.jpg",
+      "category": "Laptops",
+      "price": 899.99,
+      "description": "A compact and lightweight laptop for everyday use.",
+      "Specification": [
+        "14-inch Full HD display",
+        "Intel i5 processor",
+        "8GB RAM",
+        "512GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+
+    {
+      "product_id": "PHONE001",
+      "product_title": "Smartphone A1",
+      "product_image": "https://i.ibb.co/fHyMsTd/download-3.jpg",
+      "category": "Phones",
+      "price": 799.99,
+      "description": "Flagship smartphone with advanced features and sleek design.",
+      "Specification": [
+        "6.7-inch AMOLED display",
+        "128GB storage",
+        "48MP triple camera",
+        "4500mAh battery"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "PHONE002",
+      "product_title": "Smartphone B2",
+      "product_image": "https://i.ibb.co/SVvK7Js/OIP-6.jpg",
+      "category": "Phones",
+      "price": 599.99,
+      "description": "Mid-range smartphone with excellent performance.",
+      "Specification": [
+        "6.5-inch LCD display",
+        "64GB storage",
+        "12MP dual camera",
+        "4000mAh battery"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "PHONE003",
+      "product_title": "Smartphone C3",
+      "product_image": " https://i.ibb.co/0KC5zS6/OIP-7.jpg",
+      "category": "Phones",
+      "price": 399.99,
+      "description": "Budget-friendly smartphone with essential features.",
+      "Specification": [
+        "6.1-inch HD display",
+        "32GB storage",
+        "8MP camera",
+        "3000mAh battery"
+      ],
+      "availability": true,
+      "rating": 4.2
+    },
+    {
+      "product_id": "WATCH001",
+      "product_title": "Smartwatch X1",
+      "product_image": "https://i.ibb.co/82T9ZL0/OIP-10.jpg",
+      "category": "Smart Watches",
+      "price": 249.99,
+      "description": "Stylish smartwatch with fitness tracking features.",
+      "Specification": [
+        "1.4-inch touchscreen",
+        "Heart rate monitor",
+        "GPS tracking",
+        "Water-resistant"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "WATCH002",
+      "product_title": "Smartwatch Y2",
+      "product_image": "https://i.ibb.co/60fDGG4/OIP-9.jpg",
+      "category": "Smart Watches",
+      "price": 199.99,
+      "description": "Affordable smartwatch with essential health tracking.",
+      "Specification": [
+        "1.3-inch display",
+        "Sleep tracking",
+        "Bluetooth connectivity",
+        "Customizable watch faces"
+      ],
+      "availability": true,
+      "rating": 4.3
+    },
+    {
+      "product_id": "WATCH003",
+      "product_title": "Smartwatch Z3",
+      "product_image": "https://i.ibb.co/dWFpCFW/OIP-8.jpg",
+      "category": "Smart Watches",
+      "price": 299.99,
+      "description": "Premium smartwatch with advanced health features.",
+      "Specification": [
+        "1.5-inch AMOLED display",
+        "ECG monitoring",
+        "Blood oxygen level tracking",
+        "Long battery life"
+      ],
+      "availability": false,
+      "rating": 4.7
+    },
+    {
+      "product_id": "CHARGER001",
+      "product_title": "Fast Charger 20W",
+      "product_image": "https://i.ibb.co/7k3kbCf/fast-charger.jpg",
+      "category": "Chargers",
+      "price": 150.99,
+      "description": "Fast charger for quick charging of devices.",
+      "Specification": [
+        "20W power output",
+        "USB-C compatibility",
+        "Compact design",
+        "Overcharge protection"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": "CHARGER002",
+      "product_title": "Wireless Charger Pad",
+      "product_image": "https://i.ibb.co/8XRymsd/wireless-charger.jpg",
+      "category": "Chargers",
+      "price": 139.99,
+      "description": "Convenient wireless charging pad for smartphones.",
+      "Specification": [
+        "10W power output",
+        "Qi certified",
+        "Non-slip surface",
+        "LED indicator"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "CHARGER003",
+      "product_title": "Car Charger 3.4 A",
+      "product_image": "https://i.ibb.co/Yb50j5b/car-charger.jpg",
+      "category": "Chargers",
+      "price": 119.99,
+      "description": "Compact car charger for charging on-the-go.",
+      "Specification": [
+        "3.4A power output",
+        "Dual USB ports",
+        "Compact design",
+        "Overheat protection"
+      ],
+      "availability": true,
+      "rating": 4.4
+    },
+    {
+      "product_id": "POWERBANK001",
+      "product_title": "Power Bank 10000mAh",
+      "product_image": "https://i.ibb.co/TkX0TGC/power-bank-10000mah.jpg",
+      "category": "Power Banks",
+      "price": 149.99,
+      "description": "High-capacity power bank for extended battery life.",
+      "Specification": [
+        "10000mAh capacity",
+        "Dual USB ports",
+        "Compact design",
+        "LED power indicator"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "POWERBANK002",
+      "product_title": "Power Bank 20000mAh",
+      "product_image": "https://i.ibb.co/yyrDqnb/power-bank-20000mah.jpg",
+      "category": "Power Banks",
+      "price": 179.99,
+      "description": "Large-capacity power bank for heavy users.",
+      "Specification": [
+        "20000mAh capacity",
+        "Three USB ports",
+        "LED power indicator",
+        "Long battery life"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "POWERBANK003",
+      "product_title": "Power Bank 5000mAh",
+      "product_image": "https://i.ibb.co/LdHc0cX/power-bank-50000mah.jpg",
+      "category": "Power Banks",
+      "price": 229.99,
+      "description": "Compact power bank for everyday use.",
+      "Specification": [
+        "5000mAh capacity",
+        "Single USB port",
+        "Ultra-compact design",
+        "LED power indicator"
+      ],
+      "availability": true,
+      "rating": 4.5
+    }
+  ]
